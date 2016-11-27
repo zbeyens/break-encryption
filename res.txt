@@ -1,0 +1,36 @@
+word: awkward offsets
+ the : 84, 167 (  he )
+
+next words:
+capital: 16
+ ther: 135, 163
+cryptographers: 6
+analysis: 69
+about: 65
+trying: 13
+occurrence: 30
+ the : 178
+ the : 191
+ break: 45
+
+1
+Helsinki is the capital of Finland, it is one of the ------ts cities in the count
+ry--------------------------ple liv---------------------------------------------
+-------------- the --------- the -----------------------------------------------
+Helsinki is the capital of Finland, it is one of the largests cities in the country.\nMore than 600 tour
+
+2 space=\n
+What are you trying to do? Are you trying to break my -----osystem?\nSo, dear hack
+er-------------------------- earth ---------------------------------------------
+--------------t? Do-------------------------------------------------------------
+
+
+3
+Man, cartoons are the best! I like Futurama.\nIt is a Sci-fy show about future. Th
+e --------------------------om the ----------------------------------------------
+--------------up in-------------------------------------------------------------
+
+4
+Many steganographers would agree that, had -- not bee------IPv7, the analysis of
+we-------------------------- occurr---------------------------------------------
+--------------ey pa-------------------------------------------------------------
