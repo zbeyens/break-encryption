@@ -1,0 +1,1 @@
+Kryptografie je umenie komunikovať v prítomnosti protivníka. Táto veda je základom modernej počítačovej bezpečnosti. Bezpečnostné výskumníci vytvoriť bezpečnostné algoritmy. Existuje mnoho takých algoritmov, najznámejší je šifrovanie. Šifrovanie nám poskytuje spôsob, ako preniesť dôverné informácie.

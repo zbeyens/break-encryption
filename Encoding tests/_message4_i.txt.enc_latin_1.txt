@@ -1,0 +1,1 @@
+A kriptográfia egy művészeti kommunikálni jelenlétében ellenféltől. Ez a tudomány az alapja a modern számítógépes biztonság. Biztonsági kutatók létrehozni biztonsági algoritmusokat. Sok ilyen algoritmusok a legismertebb a titkosítást. Encryption ad nekünk egy módja annak, hogy a bizalmas információkat.

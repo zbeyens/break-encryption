@@ -54,7 +54,7 @@ class Interface:
                 content = f.read()
             content = content.replace('\n', '')
             content = base64.b64decode(content).decode("latin")
-            print('Message', i + 1, ':', len(content))
+            # print('Message', i + 1, ':', len(content))
             self.texts[i] = content
 
     def xor_strings(self, xs, ys):
@@ -78,11 +78,11 @@ class Interface:
             self.input_word = self.input_bis
             self.input_bis = ""
         else:
-            self.input_word = input("Guess a word: ")
+            self.input_word = input("Guess a word or edit the offset: ")
         self.offset = -1
         while self.input_word.isnumeric():
             self.offset = int(self.input_word) - 1
-            self.input_word = input("Guess a word: ")
+            self.input_word = input("Guess a word or edit the offset: ")
         self.input_word = self.input_word.replace("\\", "0x0a")
 
     def get_res(self):
@@ -97,7 +97,7 @@ class Interface:
 
                     self.print_res()
                     self.input_bis = input(
-                        "Choose a number to edit the offset. Enter to print the next matching words: ")
+                        "Guess a word or edit the offset. Enter to print the next matching pattern: ")
                     self.is_numeric()
                     self.is_write()
             else:
